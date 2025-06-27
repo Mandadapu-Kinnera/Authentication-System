@@ -225,6 +225,3 @@ This project is licensed under the MIT License.
 4. **Password Validation**
    - Ensure passwords meet requirements (8+ chars, uppercase, lowercase, number, special char)
 
-## 📞 Support
-
-If you have any questions or need help, please open an issue on GitHub.
